@@ -1,16 +1,20 @@
 # Parking_Assistant
-Proyecto desarrollado en asignatura de Sistemas Electrónicos / Microcontrolador Texas Instruments MSP430G22553. 
+Proyecto desarrollado en asignatura de Sistemas Electrónicos / Microcontrolador Texas Instruments MSP430G22553 con el software COde Composer Studio.
 
-
+Programación de microcontrolador y montaje de sistema electrónico.
 
 <div style="display: flex; flex-direction: row;">
-  <img src="https://github.com/aglora/VHDL_GameSokoban/blob/main/imgs/diligentBoard.png" width="500" />
-  <img src="https://github.com/aglora/VHDL_GameSokoban/blob/main/imgs/logoXilinx.png" width="300" />
+  <img src="https://github.com/aglora/Parking_Assistant/blob/main/imgs/msp.png" width="500" />
+  <img src="https://github.com/aglora/Parking_Assistant/blob/main/imgs/ccs.png" width="300" />
 </div>
 
 Asistente de aparcamiento para coche.
+Desarrollo de esquema control en App para Adroid, control de interfaz vía Bluetooth. 
 
-
+<img src="https://github.com/aglora/Parking_Assistant/blob/main/imgs/1.png" width="400" />
+<img src="https://github.com/aglora/Parking_Assistant/blob/main/imgs/2.png" width="400" />
+<img src="https://github.com/aglora/Parking_Assistant/blob/main/imgs/3.png" width="400" />
+<img src="https://github.com/aglora/Parking_Assistant/blob/main/imgs/4.png" width="400" />
 
 # COMPONENTES
 - Microcontrolador MSP430G22553
@@ -20,7 +24,11 @@ Asistente de aparcamiento para coche.
 - Boosterpack extension
 - Pantalla led mini
 
+<img src="https://github.com/aglora/Parking_Assistant/blob/main/imgs/esquema.png" width="400" />
 
+# DEMOSTRACIÓN FUNCIONAMIENTO
+
+<img src="https://github.com/aglora/Parking_Assistant/blob/main/imgs/demo.gif" width="400" />
 
 ## Authors
 [RoboticsLeon](https://github.com/RoboticsLeon) //
