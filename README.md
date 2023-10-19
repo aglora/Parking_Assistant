@@ -11,10 +11,10 @@ Programación de microcontrolador y montaje de sistema electrónico.
 Asistente de aparcamiento para coche.
 Desarrollo de esquema control en App para Adroid, control de interfaz vía Bluetooth. 
 
-<img src="https://github.com/aglora/Parking_Assistant/blob/main/imgs/1.png" width="400" />
-<img src="https://github.com/aglora/Parking_Assistant/blob/main/imgs/2.png" width="400" />
-<img src="https://github.com/aglora/Parking_Assistant/blob/main/imgs/3.png" width="400" />
-<img src="https://github.com/aglora/Parking_Assistant/blob/main/imgs/4.png" width="400" />
+<img src="https://github.com/aglora/Parking_Assistant/blob/main/imgs/1.png" width="600" />
+<img src="https://github.com/aglora/Parking_Assistant/blob/main/imgs/2.png" width="600" />
+<img src="https://github.com/aglora/Parking_Assistant/blob/main/imgs/3.png" width="600" />
+<img src="https://github.com/aglora/Parking_Assistant/blob/main/imgs/4.png" width="600" />
 
 # COMPONENTES
 - Microcontrolador MSP430G22553
@@ -24,11 +24,11 @@ Desarrollo de esquema control en App para Adroid, control de interfaz vía Bluet
 - Boosterpack extension
 - Pantalla led mini
 
-<img src="https://github.com/aglora/Parking_Assistant/blob/main/imgs/esquema.png" width="400" />
+<img src="https://github.com/aglora/Parking_Assistant/blob/main/imgs/esquema.png" width="600" />
 
 # DEMOSTRACIÓN FUNCIONAMIENTO
 
-<img src="https://github.com/aglora/Parking_Assistant/blob/main/imgs/demo.gif" width="400" />
+<img src="https://github.com/aglora/Parking_Assistant/blob/main/imgs/demo.gif" width="800" />
 
 ## Authors
 [RoboticsLeon](https://github.com/RoboticsLeon) //
